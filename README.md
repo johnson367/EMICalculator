@@ -11,8 +11,4 @@ Built Using Rush
 
 Special Thanks To:
 
-Shreyash for His Rush
-
-Wervlad/Vladimir for Watching This Github Repository
-
-Aarush for His Extensions That Inspired Me
+Shreyash for His Super-Rush
