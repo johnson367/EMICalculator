@@ -10,6 +10,9 @@ Developer: Brandon Ang
 Built Using Rush 
 
 Special Thanks To:
+
 Shreyash for His Rush
+
 Wervlad for Watching This Github Repository
+
 Aarush for His Extensions That Inspired Me
