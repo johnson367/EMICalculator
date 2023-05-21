@@ -1,5 +1,5 @@
 # EMICalculator
-Extension Name: com.brandonang.emicalculator
+Extension Name: EMICalculator
 
 Version: 1
 
