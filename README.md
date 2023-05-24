@@ -1,8 +1,6 @@
 # EMICalculator
 Extension Name: EMICalculator
 
-Description: My EMICalculator & VectorCalculator Will Merge Together Soon Wait Please For My Announcements.
-
 Version: 1
 
 Released: 5/17/2023
