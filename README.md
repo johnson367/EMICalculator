@@ -1,4 +1,4 @@
-# EMICalculatorExtension
+# EMICalculator
 Extension Name: EMICalculator
 
 Version: 1
